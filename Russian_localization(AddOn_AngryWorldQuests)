@@ -1,4 +1,4 @@
--- UTF-8 (without Rom)/"ruRU"
+-- UTF-8 (without BOM)/"ruRU"
 
 langs.ruRU = {
 UPGRADES = "Обновление",

@@ -1,14 +1,16 @@
+-- UTF-8 (without Rom)/"ruRU"
+
 langs.ruRU = {
 UPGRADES = "Обновление",
     config_showAtTop = "Показать вверху списка квестов",
-    config_onlyCurrentZone = "Показывать Задания только для текущей зоны",
+    config_onlyCurrentZone = "Показывать Локальные Задания только для текущей зоны",
     config_showEverywhere = "Показать Локальные задания на отдельной карте",
     config_hideFilteredPOI = "Скрыть отфильтрованные World Quest иконки на карте мира",
     config_hideUntrackedPOI = "Скрыть неотслеживаемые World Quest иконки на карте мира",
     config_showHoveredPOI = "Всегда показывать значок World Quest",
     config_showContinentPOI = "Показать World Quest иконки на полной карте материка",
     config_lootFilterUpgrades = "Показать обновления только для Loot фильтра",
-    config_timeFilterDuration = "Оставшееся время (Продолжительность)",
+    config_timeFilterDuration = "Оставшееся время(Продолжительность)",
     config_enabledFilters = "Включенные фильтры",
     config_sortMethod = "Сортировать Задания",
     config_sortMethod_1 = "Имя",
